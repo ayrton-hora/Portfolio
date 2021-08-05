@@ -1,10 +1,9 @@
-#### **Language:** [English](index_en.md) / [Portuguese - Brazil](index.md)
-# Meu Porfólio # 
+#### **Language:** [Portuguese - Brazil](index.md) / [English](index_en.md)  
+# Ayrton Hora # 
 
-Este é meu portfólio em desenvolvimento. Tenho está págino como local de registro de meus projetos e atividades, onde contextuo e documento sobre projetos
-desenvolvidos ao longo do tempo.
+Este é meu portfólio em desenvolvimento. Tenho está págino como local de registro de meus projetos e atividades, onde contextuo e documento sobre os mesmos ao longo do tempo.
 
-Uma visão geral sobre mim e os repositórios pode ser encontrada em meu [Perfil GitHub](https://github.com/ayrton-hora).
+Uma visão geral sobre mim e os repositórios pode ser encontrada em meu [perfil do GitHub](https://github.com/ayrton-hora).
 
 De maneira metodológica, os projetos ou atividades citadas aqui, serão organizados individualmente pelos seguintes tópicos: 
 
@@ -17,26 +16,75 @@ De maneira metodológica, os projetos ou atividades citadas aqui, serão organiz
 
 # Projetos
 
-## DataFlix
 
-## SaúDD - Diário do Paciente 
+## **DataFlix**
+_Projeto final prático da disciplina de Banco de Dados I, uma mini aplicação web de streaming._
 
-## DEER - Mapeamento
+![DataFlix](assets/images/dataflix/index_image.png)
+[Veja mais...](assets/pages/dataflix.md))
 
-## Aplicações de banco de dados e Transações - Java
 
-## Software em containers - Docker
+## **SaúDD - Diário do Paciente**
+_Projeto prático da disciplina e Engenharia de Software II, uma aplicação mobile para Android._
+![SaúDD - Diário do paciente](assets/images/saudd/index_saudd.png)
+[Veja mais...](assets/pages/saudd.md)
 
-## WebQuest - Socket's com Python
+## **DEER - Mapeamento para aplicação**
 
-## Programação paralela - Histograma COVID-19 SP
+```
+Em breve...
+```
 
-## Busca de arquivos em árvore de diretórios - Python e MPI
+## **Aplicações de banco de dados e Transações - Java**
 
-## Sistema de estacionamento de carros - C 
+```
+Em breve...
+```
 
-## Problemas clássicos de comunicação entre processos - Java
+## **Aplicação em container para envio de arquivos - Docker**
 
-## Detector de Maioria - VHDL
+```
+Em breve...
+```
 
-## Módulos de sistema de informação PROCC - Python
+## **WebQuest - Socket's com Python**
+
+```
+Em breve...
+```
+
+## **Produtor e consumidor, Histograma dos casos de COVID-19 SP - Java**
+
+```
+Em breve...
+```
+
+## **Busca de arquivos em árvore de diretórios - Python e MPI**
+
+```
+Em breve...
+```
+
+## **Sistema de estacionamento de carros - C** 
+
+```
+Em breve...
+```
+
+## **Problemas clássicos de comunicação entre processos - Java**
+
+```
+Em breve...
+```
+
+## **Detector de Maioria - VHDL**
+
+```
+Em breve...
+```
+
+## **Módulos de sistema de informação PROCC (DCOMP - UFS) - Python**
+
+```
+Em breve...
+```
