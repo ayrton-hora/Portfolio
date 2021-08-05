@@ -32,55 +32,65 @@ _Projeto prático da disciplina e Engenharia de Software II, uma aplicação mob
 
 [Veja mais...](assets/pages/saudd.md)
 
+
+## **Aplicação em container para envio de arquivos - Docker**
+_Projeto prático da disciplina de Laboratório de Redes de Computadores, uma aplicação de rede compactada em container._
+
+<img src="assets/images/index/docker.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
+
+
 ## **DEER - Mapeamento para aplicação**
+_Mapeamento de um diagrama de entidade relacionamento estendido para criação de um projeto lógico de banco de dados, utiliza MySQL Workbench._
 
 <img src="assets/images/index/deer.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
 
 [Em progresso...]()
 
 ## **Aplicações de banco de dados e Transações - Java**
+_Atividade introdutória à aplicações e transações em banco de dados utilizando API's, uso da JDBC._
 
 <img src="assets/images/index/transações.png" alt="DataFlix" style="height: 200px; vertical-align: middle">
 
 [Em progresso...]()
 
-## **Aplicação em container para envio de arquivos - Docker**
 
-<img src="assets/images/index/docker.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+## **Busca de arquivos em árvore de diretórios - Python e MPI**  
+_Implementação sequencial e paralela para localizar arquivos em uma árvore de diretórios, utiliza Python e MPI._
+
+<img src="assets/images/index/python.png" alt="Python" style="width:60%"> 
+
 
 [Em progresso...]()
 
+
 ## **WebQuest - Socket's com Python**
+_Implementação simulada em máquina Linux de sockets entre duas máquinas, ocorrendo comunicação pela rede._
 
 <img src="assets/images/index/sockets.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
 
 [Em progresso...]()
 
-## **Produtor e consumidor, Histograma dos casos de COVID-19 SP - Java**
-
-<img src="assets/images/index/histograma.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
-
-[Em progresso...]()
-
-## **Busca de arquivos em árvore de diretórios - Python e MPI**
-
-<img src="assets/images/index/busca_arquivos.png" alt="DataFlix" style="height: 250px; vertical-align: middle">
-
-[Em progresso...]()
-
-## **Sistema de estacionamento de carros - C** 
-
-<img src="assets/images/index/estacionamento.jpg" alt="DataFlix" style="height: 400px; vertical-align: middle">
-
-[Em progresso...]()
 
 ## **Problemas clássicos de comunicação entre processos - Java**
+_Abordagem e resolução de alguns dos problemas clássicos de comunicação entre processos, discutido na disciplina de Sistemas Operacionais._
 
 <img src="assets/images/index/problemas_classicos.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
 
 [Em progresso...]()
 
+
+## **Sistema de estacionamento de carros - Linguagem C** 
+_Projeto prático final da disciplina de Estrutura de Dados, implementação de um mini sistema de estacionamento de veículos, vagas dinâmicas, sistema de tempo e expansão._
+
+<img src="assets/images/index/estacionamento.jpg" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
+
+
 ## **Detector de Maioria - VHDL**
+_Projeto prático final da disciplina de Fundamentos de Sistemas Digitais, com um processo lógico, descritivo, e testado em simulações._
 
 <img src="assets/images/index/detector_maioria.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
 
