@@ -20,19 +20,22 @@ De maneira metodológica, os projetos ou atividades citadas aqui, serão organiz
 ## **DataFlix**
 _Projeto final prático da disciplina de Banco de Dados I, uma mini aplicação web de streaming._
 
-![DataFlix](assets/images/dataflix/index_image.png)
-[Veja mais...](assets/pages/dataflix.md))
+<img src="assets/images/dataflix/index_image.png" alt="DataFlix" style="height: 680px; vertical-align: middle">
+
+[Veja mais...](assets/pages/dataflix.md)
 
 
 ## **SaúDD - Diário do Paciente**
 _Projeto prático da disciplina e Engenharia de Software II, uma aplicação mobile para Android._
-![SaúDD - Diário do paciente](assets/images/saudd/index_saudd.png)
+
+<img src="assets/images/saudd/index_saudd.png" alt="SaúDD - Diário do Paciente" style="height: 700px; vertical-align: middle"/>
+
 [Veja mais...](assets/pages/saudd.md)
 
 ## **DEER - Mapeamento para aplicação**
 
 ```
-Em breve...
+$ Em breve...
 ```
 
 ## **Aplicações de banco de dados e Transações - Java**

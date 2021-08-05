@@ -20,13 +20,16 @@ Methodologically, the projects or activities mentioned here will be individually
 ## **DataFlix**
 _Practical final project of the Database I discipline, a mini streaming web application._
 
-![DataFlix](assets/images/dataflix/index_image.png)
-[More...](assets/pages/dataflix.md))
+<img src="assets/images/dataflix/index_image.png" alt="DataFlix" style="height: 680px; vertical-align: middle">
+
+[More...](assets/pages/dataflix.md)
 
 
 ## **SaúDD - Patient diary**
 _Practical project of the discipline and Software Engineering II, a mobile application for Android._
-![SaúDD - Diário do paciente](assets/images/saudd/index_saudd.png)
+
+<img src="assets/images/saudd/index_saudd.png" alt="SaúDD - Diário do Paciente" style="height: 700px; vertical-align: middle"/>
+
 [More...](assets/pages/saudd.md)
 
 ## **EER - Mapping for application**
