@@ -86,6 +86,6 @@ _Practical project of the discipline and Software Engineering II, a mobile appli
 
 [Work in progress...]()
 
-## **Modules for an information system PROCC (DCOMP - UFS) - Python**
+<!-- ## **Modules for an information system PROCC (DCOMP - UFS) - Python**
 
-[Work in progress...]()
+[Work in progress...]() -->

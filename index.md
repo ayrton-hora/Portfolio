@@ -90,5 +90,5 @@ _Projeto prático da disciplina e Engenharia de Software II, uma aplicação mob
 <!-- ## **Módulos de sistema de informação PROCC (DCOMP - UFS) - Python**
 
 ```
-Em progresso... -->
-```
+Em progresso...
+``` -->
