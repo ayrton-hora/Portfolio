@@ -20,7 +20,7 @@ De maneira metodológica, os projetos ou atividades citadas aqui, serão organiz
 ## **DataFlix**
 _Projeto final prático da disciplina de Banco de Dados I, uma mini aplicação web de streaming._
 
-<img src="assets/images/dataflix/index_image.png" alt="DataFlix" style="height: 680px; vertical-align: middle">
+<img src="assets/images/index/dataflix.png" alt="DataFlix" style="height: 680px; vertical-align: middle">
 
 [Veja mais...](assets/pages/dataflix.md)
 
@@ -28,66 +28,67 @@ _Projeto final prático da disciplina de Banco de Dados I, uma mini aplicação 
 ## **SaúDD - Diário do Paciente**
 _Projeto prático da disciplina e Engenharia de Software II, uma aplicação mobile para Android._
 
-<img src="assets/images/saudd/index_saudd.png" alt="SaúDD - Diário do Paciente" style="height: 700px; vertical-align: middle"/>
+<img src="assets/images/index/saudd.png" alt="SaúDD - Diário do Paciente" style="height: 700px; vertical-align: middle">
 
 [Veja mais...](assets/pages/saudd.md)
 
 ## **DEER - Mapeamento para aplicação**
 
-```
-$ Em breve...
-```
+<img src="assets/images/index/deer.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **Aplicações de banco de dados e Transações - Java**
 
-```
-Em breve...
-```
+<img src="assets/images/index/transações.png" alt="DataFlix" style="height: 200px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **Aplicação em container para envio de arquivos - Docker**
 
-```
-Em breve...
-```
+<img src="assets/images/index/docker.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **WebQuest - Socket's com Python**
 
-```
-Em breve...
-```
+<img src="assets/images/index/sockets.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **Produtor e consumidor, Histograma dos casos de COVID-19 SP - Java**
 
-```
-Em breve...
-```
+<img src="assets/images/index/histograma.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **Busca de arquivos em árvore de diretórios - Python e MPI**
 
-```
-Em breve...
-```
+<img src="assets/images/index/busca_arquivos.png" alt="DataFlix" style="height: 250px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **Sistema de estacionamento de carros - C** 
 
-```
-Em breve...
-```
+<img src="assets/images/index/estacionamento.jpg" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **Problemas clássicos de comunicação entre processos - Java**
 
-```
-Em breve...
-```
+<img src="assets/images/index/problemas_classicos.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Em progresso...]()
 
 ## **Detector de Maioria - VHDL**
 
-```
-Em breve...
-```
+<img src="assets/images/index/detector_maioria.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+
+[Em progresso...]()
 
 ## **Módulos de sistema de informação PROCC (DCOMP - UFS) - Python**
 
 ```
-Em breve...
+Em progresso...
 ```

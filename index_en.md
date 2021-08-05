@@ -20,7 +20,7 @@ Methodologically, the projects or activities mentioned here will be individually
 ## **DataFlix**
 _Practical final project of the Database I discipline, a mini streaming web application._
 
-<img src="assets/images/dataflix/index_image.png" alt="DataFlix" style="height: 680px; vertical-align: middle">
+<img src="assets/images/index/dataflix.png" alt="DataFlix" style="height: 680px; vertical-align: middle">
 
 [More...](assets/pages/dataflix.md)
 
@@ -28,66 +28,64 @@ _Practical final project of the Database I discipline, a mini streaming web appl
 ## **SaúDD - Patient diary**
 _Practical project of the discipline and Software Engineering II, a mobile application for Android._
 
-<img src="assets/images/saudd/index_saudd.png" alt="SaúDD - Diário do Paciente" style="height: 700px; vertical-align: middle"/>
+<img src="assets/images/index/saudd.png" alt="SaúDD - Diário do Paciente" style="height: 700px; vertical-align: middle">
 
 [More...](assets/pages/saudd.md)
 
 ## **EER - Mapping for application**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/deer.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Transactions and Database applications - Java**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/transações.png" alt="DataFlix" style="height: 200px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Container aplication for sending files - Docker**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/docker.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **WebQuest - Socket's with Python**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/sockets.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Producer and consumer, Histogram COVID-19 cases on SP - Java**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/histograma.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Directory tree file search - Python e MPI**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/busca_arquivos.png" alt="DataFlix" style="height: 250px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Car parking system - C** 
 
-```
-Work in progress...
-```
+<img src="assets/images/index/estacionamento.jpg" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Classic interprocess communication problems - Java**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/problemas_classicos.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Majority detector - VHDL**
 
-```
-Work in progress...
-```
+<img src="assets/images/index/detector_maioria.png" alt="DataFlix" style="height: 400px; vertical-align: middle">
+
+[Work in progress...]()
 
 ## **Modules for an information system PROCC (DCOMP - UFS) - Python**
 
-```
-Work in progress...
-```
+[Work in progress...]()
