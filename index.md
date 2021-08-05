@@ -70,7 +70,7 @@ _Implementação sequencial e paralela de um histograma baseado em idades, com r
 
 <img src="assets/images/index/histograma.png" alt="Histograma" style="height: 400px">
 
-[Work in progress...]()
+[Em progresso...]()
 
 
 ## **WebQuest - Socket's com Python**
