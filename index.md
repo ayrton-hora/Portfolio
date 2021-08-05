@@ -1,4 +1,4 @@
-#### **Language:** [Portuguese - Brazil](index.md) / [English](index_en.md)  
+#### **Language:** [Portuguese - Brazil](index.md) / [English](index_en_US.md)  
 # Ayrton Hora # 
 
 Este é meu portfólio em desenvolvimento. Tenho está págino como local de registro de meus projetos e atividades, onde contextuo e documento sobre os mesmos ao longo do tempo.
@@ -87,8 +87,8 @@ _Projeto prático da disciplina e Engenharia de Software II, uma aplicação mob
 
 [Em progresso...]()
 
-## **Módulos de sistema de informação PROCC (DCOMP - UFS) - Python**
+<!-- ## **Módulos de sistema de informação PROCC (DCOMP - UFS) - Python**
 
 ```
-Em progresso...
+Em progresso... -->
 ```
